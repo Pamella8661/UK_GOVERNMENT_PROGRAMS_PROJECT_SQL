@@ -349,3 +349,7 @@ This integrated approach will enable the government to allocate resources effect
  
 ## Conclusion
 The project demonstrates the value of leveraging citizen feedback for informed decision-making and program optimization, ultimately improving government transparency and responsiveness. This analysis can serve as a foundation for iterative program evaluation and citizen-centric policy development.
+## DASHBOARD 1
+![image](https://github.com/user-attachments/assets/c37fde22-fd8b-4b33-85bf-8ec3617ec719)
+## DASHBOARD 2
+![image](https://github.com/user-attachments/assets/0206dbd0-75ea-4bb3-bee8-412f374b3054)
