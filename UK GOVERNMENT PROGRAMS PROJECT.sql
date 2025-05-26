@@ -412,7 +412,7 @@ ORDER BY Month_Number;
 
 /**H. Feedback Categorization by Month
 Purpose:
-To systematically organize citizen comments into distinct groups—positive, negative, and uncategorized—in order to provide meaningful insights and actionable intelligence.**/
+To systematically organize citizen comments into distinct groupsÂ—positive, negative, and uncategorizedÂ—in order to provide meaningful insights and actionable intelligence.**/
 
 SELECT 
     DATENAME(MONTH, cf.Feedback_Date) AS Feedback_Month,
