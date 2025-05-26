@@ -44,15 +44,15 @@ This dataset represents a set of government programs, their associated spending,
 -  	Are programs staying within their allocated budgets, or is there evidence of overspending?
 ### Methodology:
 #### 1.	Data Cleaning:
--  	he dataset underwent cleaning to ensure consistency in program names, spending amounts, and feedback.
+-  	The dataset underwent cleaning to ensure consistency in program names, spending amounts, and feedback.
 
--  	Null values were handled and text standardized.
+-  	Null values were handled, and text was standardized.
 
 -  	Duplicate records in the feedback were identified and removed.
 #### 2.	Data Analysis:
 -  	Various SQL queries were created to explore the relationships between program funding, citizen feedback, and spending efficiency.
 
--  	Aggregation queries were used to calculate total spending per program and compare them to allocated budgets.
+-  	Aggregation queries were used to calculate total spending per program and compare it to allocated budgets.
 
 -  	A categorization of citizen feedback was performed using SQL CASE statements to categorize comments into positive, negative, and neutral feedback.
 #### 3.	Key Metrics:
